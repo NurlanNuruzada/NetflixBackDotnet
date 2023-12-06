@@ -14,5 +14,5 @@ public class MovieDescription:BaseEntity
     //Relatihons
     public Guid MovieId { get; set; }
     public Movie Movie { get; set; }
-    public List<ActorMovieDescription> actorMovieDescriptions { get; set; }
+    public List<ActorMovieDescription>? actorMovieDescriptions { get; set; }
 }

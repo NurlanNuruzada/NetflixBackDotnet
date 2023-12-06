@@ -8,5 +8,5 @@ public class Actor:BaseEntity
     public string SurName { get; set; }
 
     //Relations
-    public List<ActorMovieDescription> actorMovieDescriptions { get; set; }
+    public List<ActorMovieDescription>? actorMovieDescriptions { get; set; }
 }

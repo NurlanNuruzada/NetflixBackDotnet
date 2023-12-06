@@ -7,5 +7,5 @@ public class Category:BaseEntity
     public string Name { get; set; }
 
     //Relations
-    public List<CategoryMovie> categoryMovies { get; set; }
+    public List<CategoryMovie>? categoryMovies { get; set; }
 }
