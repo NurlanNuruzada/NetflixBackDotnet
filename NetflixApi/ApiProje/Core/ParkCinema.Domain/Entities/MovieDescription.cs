@@ -6,7 +6,7 @@ public class MovieDescription:BaseEntity
 {
     public string FullDesription { get; set; }  
     public DateTime MovieDuration { get; set; }
-    public double Rating { get; set; }
+    public double? Rating { get; set; }
     public DateTime RelaseDate { get; set; }
     public int AgeLimit { get; set; }
     

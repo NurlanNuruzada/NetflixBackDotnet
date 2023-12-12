@@ -401,8 +401,8 @@ namespace ParkCinema.Persistance.Migrations
                     b.Property<DateTime>("ModiffiedDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<TimeSpan>("MovieDuration")
-                        .HasColumnType("time");
+                    b.Property<DateTime>("MovieDuration")
+                        .HasColumnType("datetime2");
 
                     b.Property<Guid>("MovieId")
                         .HasColumnType("uniqueidentifier");
@@ -433,9 +433,9 @@ namespace ParkCinema.Persistance.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<byte[]>("ImagePath")
+                    b.Property<string>("ImagePath")
                         .IsRequired()
-                        .HasColumnType("varbinary(max)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("ModiffiedDate")
                         .HasColumnType("datetime2");

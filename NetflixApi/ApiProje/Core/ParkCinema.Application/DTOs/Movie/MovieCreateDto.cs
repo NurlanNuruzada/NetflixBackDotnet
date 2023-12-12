@@ -7,7 +7,7 @@ public class MovieCreateDto
 {
     public string? Title { get; set; }
     public string? ImageLocation { get; set; }
-    public string? MainDescription { get; set; }
+    public string MainDescription { get; set; }
 
     //Relations
     public MovieDescriptionCreateDto? movieDescriptionCreateDto { get; set; }

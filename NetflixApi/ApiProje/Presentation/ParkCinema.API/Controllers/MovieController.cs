@@ -27,8 +27,8 @@ public class MovieController : ControllerBase
     [HttpPost]
     public async Task<IActionResult> postMovie(MovieCreateDto movieCreateDto)
     {
-        await _movieService.CreateAsync(movieCreateDto);    
-        return null;
+        var movieDto = await _movieService.CreateAsync(movieCreateDto);
+        return Ok(movieDto);
     }
 
     [HttpDelete]
