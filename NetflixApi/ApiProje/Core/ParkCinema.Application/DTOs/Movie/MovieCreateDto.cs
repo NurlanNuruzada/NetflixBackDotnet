@@ -10,6 +10,6 @@ public class MovieCreateDto
     public string? MainDescription { get; set; }
 
     //Relations
-    public List<CategoryMovieCreateDto>? categoryMoviesCreateDto { get; set; }
     public MovieDescriptionCreateDto? movieDescriptionCreateDto { get; set; }
+    public List<CategoryMovieCreateDto>? categoryMoviesCreateDto { get; set; }
 }

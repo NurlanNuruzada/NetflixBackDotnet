@@ -12,6 +12,7 @@ using ParkCinema.Application.Abstraction.Repositories.IEntityRepository.MovieDes
 using ParkCinema.Application.Abstraction.Repositories.IEntityRepository.MovieRepository;
 using ParkCinema.Application.Abstraction.Repositories.IEntityRepository.SliderRepository;
 using ParkCinema.Application.Abstraction.Services;
+using ParkCinema.Application.Abstraction.Services.ActorService;
 using ParkCinema.Application.Abstraction.Services.EntitiyServices;
 using ParkCinema.Application.Abstraction.Services.Movie;
 using ParkCinema.Application.Validators.SliderValidators;
@@ -25,6 +26,7 @@ using ParkCinema.Persistance.Implementations.Repositories.IEntityRepository.Movi
 using ParkCinema.Persistance.Implementations.Repositories.IEntityRepository.MovieRepository;
 using ParkCinema.Persistance.Implementations.Repositories.IEntityRepository.SliderRepository;
 using ParkCinema.Persistance.Implementations.Services;
+using ParkCinema.Persistance.Implementations.Services.ActorService;
 using ParkCinema.Persistance.Implementations.Services.MovieService;
 using ParkCinema.Persistance.MapperProfiles;
 
@@ -49,6 +51,7 @@ public static class ServiceRegistration
         services.AddScoped<IAuthService, AuthService>();
         services.AddScoped<ISliderServices,SliderServices>();
         services.AddScoped<IMovieService, MovieService>();
+        services.AddScoped<IActorService, ActorService>();
 
 
         //User

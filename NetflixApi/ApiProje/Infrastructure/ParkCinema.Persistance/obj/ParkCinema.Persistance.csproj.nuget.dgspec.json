@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj": {}
+    "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj": {
+    "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj",
         "projectName": "ParkCinema.Application",
-        "projectPath": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj",
-        "packagesPath": "C:\\Users\\enelry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\obj\\",
+        "projectPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj",
+        "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\enelry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Domain\\ParkCinema.Domain.csproj": {
-                "projectPath": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Domain\\ParkCinema.Domain.csproj"
+              "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Domain\\ParkCinema.Domain.csproj": {
+                "projectPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Domain\\ParkCinema.Domain.csproj"
               }
             }
           }
@@ -89,25 +85,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Domain\\ParkCinema.Domain.csproj": {
+    "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Domain\\ParkCinema.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Domain\\ParkCinema.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Domain\\ParkCinema.Domain.csproj",
         "projectName": "ParkCinema.Domain",
-        "projectPath": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Domain\\ParkCinema.Domain.csproj",
-        "packagesPath": "C:\\Users\\enelry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Domain\\ParkCinema.Domain.csproj",
+        "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\enelry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -174,25 +166,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Infrastructure\\ParkCinema.Infrastructure.csproj": {
+    "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Infrastructure\\ParkCinema.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Infrastructure\\ParkCinema.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Infrastructure\\ParkCinema.Infrastructure.csproj",
         "projectName": "ParkCinema.Infrastructure",
-        "projectPath": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Infrastructure\\ParkCinema.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\enelry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Infrastructure\\ParkCinema.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\enelry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -206,8 +194,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj": {
-                "projectPath": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj"
+              "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj": {
+                "projectPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj"
               }
             }
           }
@@ -275,25 +263,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj": {
+    "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj",
+        "projectUniqueName": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj",
         "projectName": "ParkCinema.Persistance",
-        "projectPath": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj",
-        "packagesPath": "C:\\Users\\enelry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\obj\\",
+        "projectPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj",
+        "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\enelry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -307,11 +291,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj": {
-                "projectPath": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj"
+              "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj": {
+                "projectPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj"
               },
-              "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Infrastructure\\ParkCinema.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\enelry\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Infrastructure\\ParkCinema.Infrastructure.csproj"
+              "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Infrastructure\\ParkCinema.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Infrastructure\\ParkCinema.Infrastructure.csproj"
               }
             }
           }
@@ -395,7 +379,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

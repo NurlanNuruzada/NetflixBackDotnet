@@ -46,3 +46,15 @@ C:\Users\enelry\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\
 C:\Users\enelry\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\obj\Debug\net6.0\refint\ParkCinema.Domain.dll
 C:\Users\enelry\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\obj\Debug\net6.0\ParkCinema.Domain.pdb
 C:\Users\enelry\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\obj\Debug\net6.0\ref\ParkCinema.Domain.dll
+C:\Users\Legion\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\bin\Debug\net6.0\ParkCinema.Domain.deps.json
+C:\Users\Legion\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\bin\Debug\net6.0\ParkCinema.Domain.dll
+C:\Users\Legion\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\bin\Debug\net6.0\ParkCinema.Domain.pdb
+C:\Users\Legion\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\obj\Debug\net6.0\ParkCinema.Domain.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\obj\Debug\net6.0\ParkCinema.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\obj\Debug\net6.0\ParkCinema.Domain.AssemblyInfoInputs.cache
+C:\Users\Legion\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\obj\Debug\net6.0\ParkCinema.Domain.AssemblyInfo.cs
+C:\Users\Legion\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\obj\Debug\net6.0\ParkCinema.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\obj\Debug\net6.0\ParkCinema.Domain.dll
+C:\Users\Legion\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\obj\Debug\net6.0\refint\ParkCinema.Domain.dll
+C:\Users\Legion\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\obj\Debug\net6.0\ParkCinema.Domain.pdb
+C:\Users\Legion\Desktop\NetflixClone\NetflixApi\ApiProje\Core\ParkCinema.Domain\obj\Debug\net6.0\ref\ParkCinema.Domain.dll
