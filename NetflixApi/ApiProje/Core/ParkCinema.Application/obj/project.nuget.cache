@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3iv2nzRqkb2BdPPLOwh4JD2CZ9q61Ko3k9wi5EdwqV+VU8j/4zBbelrOLWw4qbkSQwjBYIY6zeRT4XgxsugF0w==",
+  "dgSpecHash": "35MjS0f+DzQMXV+/TAmS1k2gUOVmb+cZ72mUdBxpM9R8uCILXvuOGANwB8kvKTrZcKTRnsKMTCmgg16Xe4f3DA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj",
+  "projectFilePath": "C:\\Users\\Legion\\Desktop\\NetflixBackDotnet\\NetflixApi\\ApiProje\\Core\\ParkCinema.Application\\ParkCinema.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Legion\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Legion\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",

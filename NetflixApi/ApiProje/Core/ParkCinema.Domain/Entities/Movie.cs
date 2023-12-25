@@ -9,7 +9,6 @@ public class Movie : BaseEntity
     public string MainDescription { get; set; }
 
 
-
     //Relations
     public MovieDescription movieDescription { get; set; }
     public List<CategoryMovie> categoryMovies { get; set; }

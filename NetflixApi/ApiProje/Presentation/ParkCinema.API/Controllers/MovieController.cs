@@ -13,9 +13,10 @@ public class MovieController : ControllerBase
     public MovieController(IMovieService movieService) => _movieService = movieService;
 
     [HttpGet("[Action]")]
-    public Task<IActionResult> getAllMovie()
+    public async Task<IActionResult> getAllMovie()
     {
-        return null;
+        var allMovie = await _movieService.GetAllAsync();
+        return Ok(allMovie);
     }
 
      [HttpGet("Guid:Id")]

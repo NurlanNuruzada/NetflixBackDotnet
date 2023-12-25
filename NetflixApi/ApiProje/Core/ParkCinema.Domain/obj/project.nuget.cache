@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KWkbrpUuWINKhhXjQ4IK2DhEwukLI66HbZchmaHc7njHgxo5gZXTjyzjJdbfRSKNQ4naV4oKGNln8meDG4JwrQ==",
+  "dgSpecHash": "U33WkYkYc92Tej3vKpd48inXByRjs59F8Y/LYMjEuy6Oh6wWXT8KTUX427orO6qS969bzeWcZApSuFA2ROciGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Core\\ParkCinema.Domain\\ParkCinema.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Legion\\Desktop\\NetflixBackDotnet\\NetflixApi\\ApiProje\\Core\\ParkCinema.Domain\\ParkCinema.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Legion\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Legion\\.nuget\\packages\\mailkit\\4.2.0\\mailkit.4.2.0.nupkg.sha512",

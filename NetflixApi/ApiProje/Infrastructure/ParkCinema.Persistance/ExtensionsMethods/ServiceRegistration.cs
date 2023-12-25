@@ -16,6 +16,7 @@ using ParkCinema.Application.Abstraction.Services.ActorService;
 using ParkCinema.Application.Abstraction.Services.CategoryService;
 using ParkCinema.Application.Abstraction.Services.EntitiyServices;
 using ParkCinema.Application.Abstraction.Services.Movie;
+using ParkCinema.Application.Abstraction.Services.MovieDescription;
 using ParkCinema.Application.Validators.SliderValidators;
 using ParkCinema.Domain.Entities;
 using ParkCinema.Persistance.Context;
@@ -29,6 +30,7 @@ using ParkCinema.Persistance.Implementations.Repositories.IEntityRepository.Slid
 using ParkCinema.Persistance.Implementations.Services;
 using ParkCinema.Persistance.Implementations.Services.ActorService;
 using ParkCinema.Persistance.Implementations.Services.CategoryService;
+using ParkCinema.Persistance.Implementations.Services.MovieDescription;
 using ParkCinema.Persistance.Implementations.Services.MovieService;
 using ParkCinema.Persistance.MapperProfiles;
 
@@ -55,6 +57,7 @@ public static class ServiceRegistration
         services.AddScoped<IMovieService, MovieService>();
         services.AddScoped<IActorService, ActorService>();
         services.AddScoped<ICategoryService, CategoryService>();
+        services.AddScoped<IMovieDescriptionService, MovieDescriptionService>();
 
 
         //User

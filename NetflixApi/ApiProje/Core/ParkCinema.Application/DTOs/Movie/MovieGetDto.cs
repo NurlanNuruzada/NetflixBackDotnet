@@ -1,4 +1,5 @@
 ﻿using ParkCinema.Application.DTOs.CategoryMovie;
+using ParkCinema.Application.DTOs.MovieDescription;
 
 namespace ParkCinema.Application.DTOs.Movie;
 
@@ -10,5 +11,6 @@ public class MovieGetDto
     public string MainDescription { get; set; }
 
     //Relations
+    public MovieDescriptionGetDto movieDescriptionGetDto {get;set;}
     public List<CategoryMovieGetDto>? categoryMoviesGetDto { get; set; }
 }

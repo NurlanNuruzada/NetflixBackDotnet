@@ -24,13 +24,10 @@ public class ReadRepository<T> : IReadRepository<T> where T : BaseEntity, new()
         return isTracking ? query : query.AsNoTracking();
     }
 
-    public IQueryable<T> GetAllExpression(Expression<Func<T, bool>> expression, int Skip, int Take, bool isTracking = true, params string[] inculdes)
+    public IQueryable<T> GetAllExpression(Expression<Func<T, bool>> expression, bool isTracking = true)
     {
-        var query = Table.Where(expression).Skip(Skip).Take(Take).AsQueryable();
-        foreach(var incul in inculdes)
-        {
-            query = query.Include(incul);   
-        }
+        var query = Table.Where(expression).AsQueryable();
+     
         return isTracking ? query : query.AsNoTracking();
     }
 

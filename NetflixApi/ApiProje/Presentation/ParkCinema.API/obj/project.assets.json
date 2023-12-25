@@ -4074,11 +4074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Presentation\\ParkCinema.API\\ParkCinema.API.csproj",
+      "projectUniqueName": "C:\\Users\\Legion\\Desktop\\NetflixBackDotnet\\NetflixApi\\ApiProje\\Presentation\\ParkCinema.API\\ParkCinema.API.csproj",
       "projectName": "ParkCinema.API",
-      "projectPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Presentation\\ParkCinema.API\\ParkCinema.API.csproj",
+      "projectPath": "C:\\Users\\Legion\\Desktop\\NetflixBackDotnet\\NetflixApi\\ApiProje\\Presentation\\ParkCinema.API\\ParkCinema.API.csproj",
       "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Presentation\\ParkCinema.API\\obj\\",
+      "outputPath": "C:\\Users\\Legion\\Desktop\\NetflixBackDotnet\\NetflixApi\\ApiProje\\Presentation\\ParkCinema.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4095,8 +4095,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj": {
-              "projectPath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj"
+            "C:\\Users\\Legion\\Desktop\\NetflixBackDotnet\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj": {
+              "projectPath": "C:\\Users\\Legion\\Desktop\\NetflixBackDotnet\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj"
             }
           }
         }

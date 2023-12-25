@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9duNNzwVwbmsofNQZ94oelPvKueXHPa+O4nbuUEPf3ade7msgVEMYDbGEFzpe9i1+xCkUA9bidnJjk/wX+xjvw==",
+  "dgSpecHash": "+OynYJQnN3W1QTgSqIx/2tsrknbXnAT5KIME2cxO6h+atCU7fe5pLGR77fVvVEs6MKxtHEFovsh/QmsvRVLbeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Legion\\Desktop\\NetflixClone\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj",
+  "projectFilePath": "C:\\Users\\Legion\\Desktop\\NetflixBackDotnet\\NetflixApi\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Legion\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Legion\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
