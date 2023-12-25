@@ -89,16 +89,66 @@ public class MovieService : IMovieService
         var toDto = _mapper.Map<MovieGetDto>(movie);
         return toDto;
     }
+    /*
+ public async Task<MovieGetDto2> GetByIdAsync(Guid Id)
+    {
+        var movie = await _movieReadRepository.GetByIdAsync(Id);
+        if (movie is null) throw new NotFoundException("Movie Not Found");
+
+        MovieGetDto2 movieDto = new()
+        {
+            Id = movie.Id,
+            Title = movie.Title,
+            ImageLocation = movie.ImageLocation,
+            MainDescription = movie.MainDescription,
+            movieDescriptionId = movie.movieDescription?.Id ?? Guid.Empty,
+            categoryMoviesId = movie.categoryMovies?.Select(cm => cm.Id).ToList() ?? new List<Guid>()
+        };
+
+        return movieDto;
+    }
+    */
 
     public Task<List<MovieGetDto>> GetAllAsync()
     {
         throw new NotImplementedException();
     }
 
-    public Task<MovieGetDto> GetByIdAsync(Guid Id)
-    {
-        throw new NotImplementedException();
-    }
+   //public async Task<MovieGetDto> GetByIdAsync(Guid Id)
+    //{
+    //    var movie = await _movieReadRepository.GetByIdAsync(Id);
+    //    if (movie is null) throw new NotFoundException("Movie Not Found");
+
+    //    MovieGetDto movieDto = new()
+    //    {
+    //        Id = movie.Id,
+    //        Title = movie.Title,
+    //        ImageLocation = movie.ImageLocation,
+    //        MainDescription = movie.MainDescription,
+    //        movieDescriptionGetDto = movie.movieDescription != null
+    //       ? new MovieDescriptionGetDto()
+    //       {
+    //           Id = movie.movieDescription.Id,
+    //           FullDesription = movie.movieDescription.FullDesription,
+    //           MovieDuration = movie.movieDescription.MovieDuration,
+    //           Rating = movie.movieDescription.Rating,
+    //           RelaseDate = movie.movieDescription.RelaseDate,
+    //           AgeLimit = movie.movieDescription.AgeLimit,
+    //           MovieId = movie.movieDescription.MovieId,
+    //           actorMovieDescriptionsGetDto = movie.movieDescription.actorMovieDescriptions
+    //               ?.Select(amd => new ActorMovieDescriptionGetDto
+    //               {
+    //                   Id = amd.Id,
+    //                   movieDescriptionId = amd.movieDescriptionId,
+    //                   ActorId = amd.ActorId
+    //               }).ToList()
+    //       }
+    //       : null,
+    //    };
+
+    //    return movieDto;
+    //}
+
 
     public Task RemoveAsync(Guid id)
     {
