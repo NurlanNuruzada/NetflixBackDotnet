@@ -18,10 +18,11 @@ public class MovieController : ControllerBase
         return null;
     }
 
-    [HttpGet("Guid:Id")]
-    public Task<IActionResult> getAllMovie(Guid Id)
+     [HttpGet("Guid:Id")]
+    public async Task<IActionResult> getMovie(Guid Id)
     {
-        return null;
+        var movieGetDto = await _movieService.GetByIdAsync(Id);
+        return Ok(movieGetDto);
     }
 
     [HttpPost]
